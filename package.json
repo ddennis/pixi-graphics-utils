@@ -1,0 +1,23 @@
+{
+  "name": "pixi-graphics-util",
+  "version": "0.0.1",
+  "description": "Easy to use graphic utils for PIXI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddennis/pixi-graphics-utils.git"
+  },
+  "keywords": [
+    "PIXI",
+    "PIXIjs"
+  ],
+  "author": "'Dennis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddennis/pixi-graphics-utils/issues"
+  },
+  "homepage": "https://github.com/ddennis/pixi-graphics-utils#readme"
+}
