@@ -1,3 +1,13 @@
+#################
+## Editors  - Sublime Text - webstorm
+#################
+
+*.sublime-project
+*.sublime-workspace
+*.idea
+.idea/
+
+
 # Logs
 logs
 *.log
