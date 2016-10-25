@@ -6,6 +6,7 @@ var PixiBox = require('./src/display/PixiBox');
 var PixiCircle = require('./src/display/PixiCircle');
 var PixiBtn = require('./src/ui/PixiBtn');
 
+// export components
 module.exports = {
 	  PixiBox:PixiBox,
 	  PixiBtn:PixiBtn,
