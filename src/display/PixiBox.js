@@ -3,7 +3,7 @@ var PIXI = require ("pixi.js");
 
 
 function PixiBox(_w, _h, _c, _a){
-	// call super constructor
+	
 	PIXI.Graphics.call (this );
 
 	this._w = _w    || 50;
